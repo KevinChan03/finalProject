@@ -1,0 +1,37 @@
+body {
+	margin: 0;
+	width: 100%;
+	padding: 0;
+}
+
+.Pi {
+	border: 5px solid black;
+	padding: 20px;
+	width: 275px;
+	border-radius:10px; 
+}
+
+.TitleFont{
+	font-family: "Times New Roman", Times, serif;
+}
+
+.FontSize1{
+	font-size: 40px;
+}
+
+.center {
+  margin: 0 auto;
+  width: 325px;
+}
+.TextCenter{
+	text-align:center;
+
+
+}
+.BackgroundColor{
+	background-color:cornflowerblue;
+
+}
+.logo{
+	background-color: orange;
+}
