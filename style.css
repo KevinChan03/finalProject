@@ -3,35 +3,58 @@ body {
 	width: 100%;
 	padding: 0;
 }
-
 .Pi {
 	border: 5px solid black;
 	padding: 20px;
 	width: 275px;
 	border-radius:10px; 
 }
-
-.TitleFont{
-	font-family: "Times New Roman", Times, serif;
+.Pi2{
+	border: 5px solid black;
+	padding: 10px;
+	width: 400px;
+	border-radius:5px;
 }
-
 .FontSize1{
-	font-size: 40px;
+	font-size: 35px;
+}
+.FontSize2{
+	font-size: 25px;
+}
+.center1{
+	margin:0 auto;
+	width:325px;
+}
+.center {
+  	margin: 0 auto;
+  	width: 275px;
+}
+.center2{
+	margin:0 auto;
+	width:400px;
+}
+.center3{
+	margin:0 auto;
+	width:500px;
+}
+.center4{
+	margin:0 auto;
+	width:300px;
 }
 
-.center {
-  margin: 0 auto;
-  width: 325px;
-}
 .TextCenter{
 	text-align:center;
-
-
 }
-.BackgroundColor{
+.BlueColor{
 	background-color:cornflowerblue;
-
 }
-.logo{
+.LightBlueColor{
+	background-color:lightcyan;
+}
+.OrangeColor{
 	background-color: orange;
+}
+
+.TextGold{
+	color:goldenrod;
 }
