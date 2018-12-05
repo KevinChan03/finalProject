@@ -2,6 +2,12 @@ body {
 	margin: 0;
 	width: 100%;
 	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold; 
 }
 .Pi {
 	border: 5px solid black;
@@ -21,6 +27,9 @@ body {
 .FontSize2{
 	font-size: 25px;
 }
+.FontSize3{
+	font-size: 20px;
+}
 .center1{
 	margin:0 auto;
 	width:325px;
@@ -28,6 +37,7 @@ body {
 .center {
   	margin: 0 auto;
   	width: 275px;
+  	font-family: 'Bungee';
 }
 .center2{
 	margin:0 auto;
@@ -57,4 +67,15 @@ body {
 
 .TextGold{
 	color:goldenrod;
+}
+.homebutton{
+	float:left;
+	width:100px;
+	height:100px;
+	
+}
+.home h1{
+	position:relative;
+	top:18px;
+	left:10px;
 }
